@@ -8,9 +8,6 @@ I'm an undergraduate student studying computer engineering at the University of 
 **🔭 Current Projects:** 
 * Moving the Engineering Stores website to React
 * My personal website!
-* Item 2b
-* Moving the <a href={https://stores.skule.ca/}>Engineering Stores</a> website to React
-* My personal website!
 
 <br>
 
