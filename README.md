@@ -6,13 +6,13 @@ I'm an undergraduate student studying computer engineering at the University of 
 <br>
 
 **🔭 Current Projects:** 
-* Moving the Engineering Stores website to React
+* Moving the [Engineering Stores website](https://github.com/engineeringstores/react-stores-2022) to React
 * My personal website!
 
 <br>
 
 **💻 Previous Projects:**
-* Orientation Website 2T2
+* [Orientation Website 2T2](https://github.com/UofT-Frosh-Orientation/orientation-website)
 
 <br>
 
