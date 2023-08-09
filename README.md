@@ -6,7 +6,6 @@ I'm an undergraduate student studying computer engineering at the University of 
 <br>
 
 **🔭 Current Projects:** 
-* Moving the [Engineering Stores website](https://github.com/engineeringstores/react-stores-2022) to React
 * My personal website!
 
 <br>
@@ -17,7 +16,7 @@ I'm an undergraduate student studying computer engineering at the University of 
 <br>
 
 **📫 How to reach me:**
-natalieanna.chan@mail.utoronto.ca | https://www.linkedin.com/in/natalieachan
+natalieanna.chan@mail.utoronto.ca | https://www.linkedin.com/in/natalieannachan
 
 <br>
 
